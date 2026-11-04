@@ -10,7 +10,7 @@ This repository holds release files only; it contains no source code.
 
 No internet on the Rhino computer? Download the engine ZIP from the [Releases](../../releases) page, then click **Install from file** in the panel.
 
-Full guide and documentation: https://nextra.website/tools/design
+Full guide and documentation: https://nextra.studio/tools/design
 
 ## Files
 
